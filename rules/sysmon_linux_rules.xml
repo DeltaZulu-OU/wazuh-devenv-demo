@@ -1,4 +1,4 @@
-<group name="sysmon-linux,">
+<group name="custom,sysmon-linux,">
     <rule id="110000" level="2">
         <decoded_as>sysmon-linux</decoded_as>
         <description>Sysmon Linux alerts grouped.</description>
